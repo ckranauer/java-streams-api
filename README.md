@@ -1,4 +1,4 @@
-#Java Streams API
+# Java Streams API
 
 ## - IntStream // range()
 ## - min/max
